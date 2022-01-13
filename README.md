@@ -3,4 +3,6 @@ This was my final project for CP8319 (Introduction to Deep Learning), where I em
 
 Link to dataset: https://www.kaggle.com/cynthiarempel/amazon-us-customer-reviews-dataset?select=amazonreviewsusApparelv100.tsv
 
-The final report contains further details on the dataset, processing techniques, methodology and results. The final project code will be added shortly.
+The final report contains further details on the dataset, processing techniques, methodology and results. 
+
+The final project code will be added shortly.
